@@ -1,74 +1,74 @@
-@import "static/styles/normalize.css";
-@import "static/styles/fonts.css";
-@import "blocks/wrapper/wrapper.css";
-@import "blocks/page/page.css";
-@import "blocks/title/title.css";
-@import "blocks/header/header.css";
-@import "blocks/logo/logo.css";
+@import url("static/styles/normalize.css");
+@import url("static/styles/fonts.css");
+@import url("blocks/wrapper/wrapper.css");
+@import url("blocks/page/page.css");
+@import url("blocks/title/title.css");
+@import url("blocks/header/header.css");
+@import url("blocks/logo/logo.css");
 
-@import "blocks/lang/lang.css";
-@import "blocks/lang/__item/lang__item.css";
-@import "blocks/lang/__link/lang__link.css";
-@import "blocks/lang/__link/_active/lang__link_active.css";
+@import url("blocks/lang/lang.css");
+@import url("blocks/lang/__item/lang__item.css");
+@import url("blocks/lang/__link/lang__link.css");
+@import url("blocks/lang/__link/_active/lang__link_active.css");
 
-@import "blocks/hero/hero.css";
-@import "blocks/hero/__title/hero__title.css";
-@import "blocks/hero/__description/hero__description.css";
-@import "blocks/hero/__img/hero__img.css";
-@import "blocks/hero/__note/hero__note.css";
+@import url("blocks/hero/hero.css");
+@import url("blocks/hero/__title/hero__title.css");
+@import url("blocks/hero/__description/hero__description.css");
+@import url("blocks/hero/__img/hero__img.css");
+@import url("blocks/hero/__note/hero__note.css");
 
-@import "blocks/hero-info/hero-info.css";
-@import "blocks/hero-info/__title/hero-info__title.css";
-@import "blocks/hero-info/__description/hero-info__description.css";
-@import "blocks/hero-info/__list/hero-info__list.css";
-@import "blocks/hero-info/__item/hero-info__item.css";
-@import "blocks/hero-info/__key/hero-info__key.css";
+@import url("blocks/hero-info/hero-info.css");
+@import url("blocks/hero-info/__title/hero-info__title.css");
+@import url("blocks/hero-info/__description/hero-info__description.css");
+@import url("blocks/hero-info/__list/hero-info__list.css");
+@import url("blocks/hero-info/__item/hero-info__item.css");
+@import url("blocks/hero-info/__key/hero-info__key.css");
 
-@import "blocks/photo-grid/photo-grid.css";
-@import "blocks/photo-grid/__img/photo-grid__img.css";
+@import url("blocks/photo-grid/photo-grid.css");
+@import url("blocks/photo-grid/__img/photo-grid__img.css");
 
-@import "blocks/places/places.css";
-@import "blocks/places/__item/places__item.css";
-@import "blocks/places/__top/places__top.css";
-@import "blocks/places/__title/places__title.css";
-@import "blocks/places/__info/places__info.css";
-@import "blocks/places/__url-key/places__url-key.css";
-@import "blocks/places/__url-value/places__url-value.css";
-@import "blocks/places/__bottom/places__bottom.css";
-@import "blocks/places/__description/places__description.css";
-@import "blocks/places/__img/places__img.css";
-@import "blocks/places/__text/places__text.css";
+@import url("blocks/places/places.css");
+@import url("blocks/places/__item/places__item.css");
+@import url("blocks/places/__top/places__top.css");
+@import url("blocks/places/__title/places__title.css");
+@import url("blocks/places/__info/places__info.css");
+@import url("blocks/places/__url-key/places__url-key.css");
+@import url("blocks/places/__url-value/places__url-value.css");
+@import url("blocks/places/__bottom/places__bottom.css");
+@import url("blocks/places/__description/places__description.css");
+@import url("blocks/places/__img/places__img.css");
+@import url("blocks/places/__text/places__text.css");
 
-@import "blocks/video/video.css";
-@import "blocks/video/__title/video__title.css";
-@import "blocks/video/__description/video__description.css";
-@import "blocks/video/__item/video__item.css";
-@import "blocks/video/__item/_about/video__item_about_kamchatka.css";
-@import "blocks/video/__item/_about/video__item_about_observatory.css";
-@import "blocks/video/__videos/video__videos.css";
-@import "blocks/video/__icon-play/video__icon-play.css";
-@import "blocks/video/__caption/video__caption.css";
-@import "blocks/video/__info/video__info.css";
-@import "blocks/video/__time/video__time.css";
+@import url("blocks/video/video.css");
+@import url("blocks/video/__title/video__title.css");
+@import url("blocks/video/__description/video__description.css");
+@import url("blocks/video/__item/video__item.css");
+@import url("blocks/video/__item/_about/video__item_about_kamchatka.css");
+@import url("blocks/video/__item/_about/video__item_about_observatory.css");
+@import url("blocks/video/__videos/video__videos.css");
+@import url("blocks/video/__icon-play/video__icon-play.css");
+@import url("blocks/video/__caption/video__caption.css");
+@import url("blocks/video/__info/video__info.css");
+@import url("blocks/video/__time/video__time.css");
 
-@import "blocks/comments/comments.css";
-@import "blocks/comments/__title/comments__title.css";
-@import "blocks/comments/__description/comments__description.css";
-@import "blocks/comments/__list/comments__list.css";
-@import "blocks/comments/__item/comments__item.css";
-@import "blocks/comments/__img/comments__img.css";
-@import "blocks/comments/__text/comments__text.css";
-@import "blocks/comments/__author/comments__author.css";
+@import url("blocks/comments/comments.css");
+@import url("blocks/comments/__title/comments__title.css");
+@import url("blocks/comments/__description/comments__description.css");
+@import url("blocks/comments/__list/comments__list.css");
+@import url("blocks/comments/__item/comments__item.css");
+@import url("blocks/comments/__img/comments__img.css");
+@import url("blocks/comments/__text/comments__text.css");
+@import url("blocks/comments/__author/comments__author.css");
 
-@import "blocks/article/article.css";
-@import "blocks/article/__link/article__link.css";
-@import "blocks/article/__description/article__description.css";
+@import url("blocks/article/article.css");
+@import url("blocks/article/__link/article__link.css");
+@import url("blocks/article/__description/article__description.css");
 
-@import "blocks/footer/footer.css";
-@import "blocks/footer/__item/footer__item.css";
-@import "blocks/footer/__links/footer__links.css";
-@import "blocks/footer/__link/footer__link.css";
-@import "blocks/footer/__copyright/footer__copyright.css";
+@import url("blocks/footer/footer.css");
+@import url("blocks/footer/__item/footer__item.css");
+@import url("blocks/footer/__links/footer__links.css");
+@import url("blocks/footer/__link/footer__link.css");
+@import url("blocks/footer/__copyright/footer__copyright.css");
 
 
 
