@@ -1,0 +1,12 @@
+.places__top {
+    display: flex;
+    align-items: flex-end;
+    margin: 0 0 51px;
+}
+
+@media (max-width: 1024px) {
+    .places__top {
+        margin: 0 0 33px;
+    }
+}
+

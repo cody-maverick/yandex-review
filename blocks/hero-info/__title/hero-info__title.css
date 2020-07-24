@@ -1,0 +1,13 @@
+.hero-info__title {
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 59px;
+    margin: 0 0 34px;
+}
+
+@media (max-width: 768px) {
+    .hero-info__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

@@ -1,0 +1,10 @@
+.places__item:not(:last-child) {
+    margin-bottom: 81px;
+}
+
+@media (max-width: 768px) {
+    .places__item:not(:last-child) {
+        margin-bottom: 47px;
+    }
+}
+

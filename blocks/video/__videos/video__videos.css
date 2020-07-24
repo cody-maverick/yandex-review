@@ -1,0 +1,19 @@
+.video__videos {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: minmax(100px, 323px);
+    grid-gap: 18px;
+}
+
+@media (max-width: 1280px) {
+    .video__videos {
+        grid-template-rows: minmax(100px, 288px);
+    }
+}
+
+@media (max-width: 1024px) {
+    .video__videos {
+        grid-template-rows: minmax(100px, 200px);
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

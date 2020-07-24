@@ -1,0 +1,4 @@
+.video__item_about_observatory {
+    background: url("../../../../static/images/video/observatory.jpg") center no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,13 @@
+.comments__list {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+
+@media (max-width: 768px) {
+    .comments__list {
+        flex-direction: column;
+        align-items: center;
+    }
+}

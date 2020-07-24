@@ -1,0 +1,12 @@
+.comments__text {
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0 0 13px;
+}
+
+@media (max-width: 768px) {
+    .comments__text {
+        text-align: left;
+        order: 3;
+    }
+}

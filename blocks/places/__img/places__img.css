@@ -1,0 +1,14 @@
+.places__img {
+    max-width: 47%;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+    .places__img {
+        max-width: calc(100% + 32px);
+        position: relative;
+        left: -16px;
+        margin-bottom: 20px;
+    }
+}
+

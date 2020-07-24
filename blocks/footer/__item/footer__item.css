@@ -1,0 +1,11 @@
+.footer__item:not(:last-child) {
+    margin-right: 18px;
+}
+
+@media (max-width: 768px) {
+    .footer__item {
+        margin-right: 0 !important;
+        margin-bottom: 20px;
+    }
+}
+

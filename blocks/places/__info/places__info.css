@@ -1,0 +1,21 @@
+.places__info {
+    width: 53%;
+    padding-left: 40px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+@media (max-width: 1024px) {
+    .places__info {
+        padding-left: 28px;
+    }
+}
+
+@media (max-width: 768px) {
+    .places__info {
+        display: none;
+    }
+}
