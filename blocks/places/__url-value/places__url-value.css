@@ -1,0 +1,11 @@
+.places__url-value {
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: #fff;
+    transition: 0.3s;
+}
+
+.places__url-value:hover {
+    color: #aaa;
+}

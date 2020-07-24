@@ -1,0 +1,15 @@
+.hero__note {
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    text-align: left;
+    margin: 7px 0 81px;
+}
+
+@media (max-width: 1024px) {
+    .hero__note {
+        margin: 7px 0 51px;
+    }
+}
+
